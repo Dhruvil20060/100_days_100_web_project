@@ -16,14 +16,6 @@ A modular, dependency-free clinical utility dashboard built using vanilla fronte
 
 ---
 
-## 📸 Screenshots
-
-### Light Mode Dashboard
-![alt text](image.png)
-### Dark Mode Analytics
-![alt text](image-1.png)
----
-
 ## 🧮 Theoretical Background & Core Formulas
 
 The underlying engine relies on standard biophysical equations to calculate health index variables:
